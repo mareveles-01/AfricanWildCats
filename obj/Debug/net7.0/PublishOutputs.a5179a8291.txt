@@ -1,0 +1,7 @@
+C:\Users\Miguel\Documents\AfricanWildCats\africanwildcats\bin\Debug\net7.0\publish\africanwildcats.exe
+C:\Users\Miguel\Documents\AfricanWildCats\africanwildcats\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Miguel\Documents\AfricanWildCats\africanwildcats\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Miguel\Documents\AfricanWildCats\africanwildcats\bin\Debug\net7.0\publish\africanwildcats.dll
+C:\Users\Miguel\Documents\AfricanWildCats\africanwildcats\bin\Debug\net7.0\publish\africanwildcats.deps.json
+C:\Users\Miguel\Documents\AfricanWildCats\africanwildcats\bin\Debug\net7.0\publish\africanwildcats.runtimeconfig.json
+C:\Users\Miguel\Documents\AfricanWildCats\africanwildcats\bin\Debug\net7.0\publish\africanwildcats.pdb
